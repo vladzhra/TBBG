@@ -99,6 +99,7 @@
     {"name":"spr_hud_heart","order":1,"path":"sprites/spr_hud_heart/spr_hud_heart.yy",},
     {"name":"spr_bat_projectile_splatter","order":2,"path":"sprites/spr_bat_projectile_splatter/spr_bat_projectile_splatter.yy",},
     {"name":"spr_lever","order":12,"path":"sprites/spr_lever/spr_lever.yy",},
+    {"name":"Sprite64","order":10,"path":"sprites/Sprite64/Sprite64.yy",},
     {"name":"spr_barrel_small","order":2,"path":"sprites/spr_barrel_small/spr_barrel_small.yy",},
     {"name":"ts_floor","order":1,"path":"tilesets/ts_floor/ts_floor.yy",},
     {"name":"obj_collision_parent","order":2,"path":"objects/obj_collision_parent/obj_collision_parent.yy",},

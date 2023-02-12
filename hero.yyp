@@ -166,6 +166,7 @@
     {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},"order":0,},
     {"id":{"name":"spr_bat_projectile_splatter","path":"sprites/spr_bat_projectile_splatter/spr_bat_projectile_splatter.yy",},"order":2,},
     {"id":{"name":"spr_lever","path":"sprites/spr_lever/spr_lever.yy",},"order":12,},
+    {"id":{"name":"Sprite64","path":"sprites/Sprite64/Sprite64.yy",},"order":0,},
     {"id":{"name":"spr_barrel_small","path":"sprites/spr_barrel_small/spr_barrel_small.yy",},"order":2,},
     {"id":{"name":"ts_floor","path":"tilesets/ts_floor/ts_floor.yy",},"order":1,},
     {"id":{"name":"obj_editor_wall","path":"objects/obj_editor_wall/obj_editor_wall.yy",},"order":0,},
