@@ -4,9 +4,13 @@
   "name": "ts_animations",
   "autoTileSets": [],
   "macroPageTiles": {
-    "SerialiseHeight": 0,
-    "SerialiseWidth": 0,
-    "TileSerialiseData": [],
+    "SerialiseHeight": 3,
+    "SerialiseWidth": 1,
+    "TileSerialiseData": [
+      0,
+      21,
+      37,
+    ],
   },
   "out_columns": 16,
   "out_tilehborder": 2,
