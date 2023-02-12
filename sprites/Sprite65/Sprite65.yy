@@ -24,6 +24,10 @@
   ],
   "nineSlice": null,
   "origin": 0,
+  "parent": {
+    "name": "hero",
+    "path": "hero.yyp",
+  },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
