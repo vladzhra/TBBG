@@ -24,7 +24,7 @@ text += "\nSPACE: Use sword";
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 073C921B
-/// @DnDArgument : "expr" ""\nA: Use magic""
+/// @DnDArgument : "expr" ""\nA: Use magic\n""
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "text"
-text += "\nA: Use magic";
+text += "\nA: Use magic\n";

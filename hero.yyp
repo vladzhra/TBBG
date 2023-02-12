@@ -155,6 +155,7 @@
     {"id":{"name":"snd_bat_shoot","path":"sounds/snd_bat_shoot/snd_bat_shoot.yy",},"order":7,},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},"order":0,},
     {"id":{"name":"Template_Readme","path":"notes/Template_Readme/Template_Readme.yy",},"order":14,},
+    {"id":{"name":"obj_help_game","path":"objects/obj_help_game/obj_help_game.yy",},"order":0,},
     {"id":{"name":"ts_walls","path":"tilesets/ts_walls/ts_walls.yy",},"order":0,},
     {"id":{"name":"snd_fountain","path":"sounds/snd_fountain/snd_fountain.yy",},"order":3,},
     {"id":{"name":"obj_baddie","path":"objects/obj_baddie/obj_baddie.yy",},"order":0,},
