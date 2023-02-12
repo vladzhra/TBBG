@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_menu_background",
-  "bbox_bottom": 719,
+  "bbox_bottom": 3,
   "bbox_left": 0,
   "bbox_right": 1279,
   "bbox_top": 0,
