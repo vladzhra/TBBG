@@ -49,7 +49,6 @@
     {"name":"spr_sword_attack","order":4,"path":"sprites/spr_sword_attack/spr_sword_attack.yy",},
     {"name":"path_enemy_2","order":1,"path":"paths/path_enemy_2/path_enemy_2.yy",},
     {"name":"snd_gate_iron_open","order":11,"path":"sounds/snd_gate_iron_open/snd_gate_iron_open.yy",},
-    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
     {"name":"snd_chest_open","order":10,"path":"sounds/snd_chest_open/snd_chest_open.yy",},
     {"name":"obj_bat_projectile","order":3,"path":"objects/obj_bat_projectile/obj_bat_projectile.yy",},
     {"name":"snd_baddie_defeated","order":5,"path":"sounds/snd_baddie_defeated/snd_baddie_defeated.yy",},
