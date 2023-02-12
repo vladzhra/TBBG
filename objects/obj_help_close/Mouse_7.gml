@@ -20,8 +20,15 @@ with(obj_button_parent) {
 /// @DnDHash : 0B7F7775
 /// @DnDApplyTo : {obj_button_parent}
 /// @DnDArgument : "x" "0"
+/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "-1000"
+/// @DnDArgument : "y_relative" "1"
 with(obj_button_parent) {
-x = 0;
-y = -1000;
+x += 0;
+y += -1000;
 }
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 790E792B
+instance_destroy();
