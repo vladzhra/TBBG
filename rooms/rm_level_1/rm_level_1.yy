@@ -354,6 +354,7 @@
     {"name":"inst_1B37DF5B","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_19C24F07","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_1E0A7C3","path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"inst_64190F9","path":"rooms/rm_level_1/rm_level_1.yy",},
   ],
   "isDnd": true,
   "layers": [
@@ -785,6 +786,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B37DF5B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_heart_pickup","path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2352.0,"y":3168.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19C24F07","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_heart_pickup","path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4944.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1E0A7C3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4304.0,"y":3040.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_64190F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_batman","path":"objects/obj_batman/obj_batman.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4528.0,"y":2784.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRLayer","resourceVersion":"1.0","name":"Visuals_Below_Instances","depth":-10900,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
         {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Visual_Assets","assets":[
